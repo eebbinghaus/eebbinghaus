@@ -1,5 +1,6 @@
 
-## I'm Erich and I'm a Full Stack Developer
+## 👋🏼 I'm Erich 
+### 💻 - I'm a Full Stack Developer - 💻
 
 - 🔭 I’m currently working on refactoring some vanilla JS projects with React!
 - 📫 How to reach me: eebbinghaus@gmail.com
